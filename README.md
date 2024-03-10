@@ -38,6 +38,7 @@ wakatime.vscode-wakatime
   "workbench.productIconTheme": "fluent-icons",
 
   "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.cursorStyle": "block",
   "editor.renderLineHighlight": "none",
   "editor.snippetSuggestions": "top",
@@ -45,6 +46,10 @@ wakatime.vscode-wakatime
   "editor.linkedEditing": true,
   "editor.formatOnSave": true,
 
-  "wakatime.apiKey": "WAKATIME_API_KEY"
+  "wakatime.apiKey": "API_KEY",
+
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
 }
 ```
