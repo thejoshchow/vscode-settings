@@ -36,6 +36,8 @@ wakatime.vscode-wakatime
   "workbench.sideBar.location": "right",
   "workbench.tree.indent": 20,
   "workbench.productIconTheme": "fluent-icons",
+  "window.openFilesInNewWindow": "on",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
 
   "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -50,6 +52,9 @@ wakatime.vscode-wakatime
 
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
   }
 }
 ```
