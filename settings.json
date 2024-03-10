@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Hyper Term Black",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#C839C5",
+    "terminalCursor.foreground": "#C839C5"
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.tree.indent": 20,
+  "workbench.productIconTheme": "fluent-icons",
+
+  "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
+  "editor.cursorStyle": "block",
+  "editor.renderLineHighlight": "none",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "editor.linkedEditing": true,
+
+  "wakatime.apiKey": "WAKA_API_KEY",
+  "files.trimTrailingWhitespace": true
+}
