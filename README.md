@@ -1,6 +1,6 @@
 ### 1. install extensions
 
-copy and paste the following code block into a new file named `vs-extensions.txt'
+copy and paste the following code block into a new file named `vs-extensions.txt`
 
 ```
 ms-python.black-formatter
