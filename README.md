@@ -1,4 +1,6 @@
-## install extensions
+### 1. install extensions
+
+---
 
 extensions to be installed:
 
@@ -20,4 +22,4 @@ extensions to be installed:
 
 `cat vs-extensions.txt | xargs -L1 code --install-extension`
 
-## copy settings
+### 2. copy settings
