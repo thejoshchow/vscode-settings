@@ -18,6 +18,7 @@ ms-python.debugpy
 bradlc.vscode-tailwindcss
 vue.volar
 wakatime.vscode-wakatime
+eamodio.gitlens
 ```
 
 `cat vs-extensions.txt | xargs -L1 code --install-extension`
